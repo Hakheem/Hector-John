@@ -3,7 +3,7 @@
 I’m a frontend developer and UI/UX designer dedicated to creating dynamic, user-centric web applications. My focus is on crafting seamless digital experiences and solving complex design challenges. With a sharp eye for detail and a commitment to innovation, I continuously seek new opportunities to grow and push the boundaries of frontend development.
 
 * ✉️  You can contact me at [hectorjohn254@gmail.com](mailto:hectorjohn254@gmail.com) <br/>
-* 🖥️  See my portfolio at [hakheem.online](http://hakheem.online) <br/>
+* 🖥️  See my portfolio at [hector](http://hector-john.vercel.app) <br/>
 * 🚀  I'm currently working on [Trendify](http://trendi-fy.netlify.app) <br/>
 * 🤝  I'm open to collaborating on Innovative Web Projects: Whether it's a cutting-edge web app or a unique frontend solution. <br/>
 
