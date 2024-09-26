@@ -9,7 +9,7 @@ I’m a frontend developer and UI/UX designer dedicated to creating dynamic, use
 
 ### Skills
 
-<div style="display: flex; align-items: start; gap: 2rem;">
+<div style="display: flex; align-items: start; gap: 3rem;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
@@ -20,6 +20,7 @@ I’m a frontend developer and UI/UX designer dedicated to creating dynamic, use
 </div>
 
 <br/>
+
 ### Stats
 
 
