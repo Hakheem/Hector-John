@@ -14,7 +14,7 @@ I build sleek, responsive, and scalable web experiences that are user-first and 
 <a href="https://dribbble.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge" height="28" /></a>  
 
 ## 🚀 Current Project  
-🔥 [Skill Bridge](https://skill-bridge.vercel.app) - A modern learning management system with intuitive UX  
+🔥 [Skill Bridge](https://skilly-bridge.vercel.app) - A modern learning management system with intuitive UX  
 
 
 ## 🛠 Tech Stack  
