@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hector John  
-### Product-Focused Front End Developer & Product Designer  
+### Product-Focused Web Developer & Product Designer  
 
 I build sleek, responsive, and scalable web experiences that are user-first and technically sound. My work combines clean architecture with thoughtful interfaces, focusing on systems that deliver real value through maintainable code and optimized performance.
 
@@ -7,14 +7,15 @@ I build sleek, responsive, and scalable web experiences that are user-first and 
 🔹 Figma-to-Code workflow expert  
 🔹 Performance-focused and data-driven  
 
-<a href="mailto:hectorjohn254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" /></a> 
+<a href="mailto:hakheem67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" /></a> 
 <a href="http://hectorjohn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?logo=vercel&logoColor=white&style=for-the-badge" height="28" /></a> 
-<a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" /></a> 
-<a href="https://www.behance.net/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="28" /></a> 
-<a href="https://dribbble.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge" height="28" /></a>  
+<a href="https://www.linkedin.com/in/hectorjohn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" /></a> 
+<a href="https://www.behance.net/hectorjohn2" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="28" /></a> 
+<a href="https://dribbble.com/Hakheem" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge" height="28" /></a>  
 
 ## 🚀 Current Project  
-🔥 [Skill Bridge](https://skilly-bridge.vercel.app) - A modern learning management system with intuitive UX  
+🔥 [UrbanMart ](https://volcan-tech.vercel.app/) - A modern multi-vendor e-commerce web app 
+
 
 
 ## 🛠 Tech Stack  
@@ -33,7 +34,18 @@ I build sleek, responsive, and scalable web experiences that are user-first and 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin: 1rem 0 2rem 0;">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/-Sanity-F03E2F?logo=sanity&logoColor=white&style=for-the-badge" height="28" />
 </div>
+
+### Tooling & Workflow  
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; margin: 1rem 0 2rem 0;">
+  <img src="https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white&style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="28" />
+</div>
+
+
 
 ## 🤝 Collaboration  
 Open to partnerships on tools and products needing design and development expertise  
